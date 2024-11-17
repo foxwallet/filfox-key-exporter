@@ -4,7 +4,9 @@ Filfox Web Wallet(https://wallet.filfox.info) is no longer maintained, but their
 Here is a tool to help you export private keys.
 
 ## Usage
-- Download this tool 
+- Download this tool from https://github.com/foxwallet/filfox-key-exporter/releases
+  - `filfox-key-exporter_darwin_arm64` for arm mac 
+  - `filfox-key-exporter_win64.exe` for windows
 - Double-click the executable file to run it
 - Input your seed phrase created in wallet.filfox.info, and export private key
 - Import the private key to [FoxWallet](https://foxwallet.com/download) and transfer
